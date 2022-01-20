@@ -9,11 +9,14 @@
 ### 20 de janeiro (quinta)
 
 - [ ] Fazer questões do livro sobre Funções de Várias Variáveis de Cálculo 2.
+- [ ] Estudar assunto Diagonalização de Álgebra Linear.
+- [ ] Estudar Conservação do momento linear e Colisões de Introdução à Física Clássica 1.
+- [ ] Fazer atividade sobre Conservação do momento linear e Colisões de Introdução à Física Clássica 1.
 
 ### 19 de janeiro (quarta)
 
-- [ ] Estudar assunto Gráficos de Função de Várias Variáveis de Cálculo 2.
-- [ ] Fazer exercícios da lista 5 sobre Auto valores e auto vetores de Álgebra Linear.
+- [x] Estudar assunto Gráficos de Função de Várias Variáveis de Cálculo 2.
+- [x] Fazer exercícios da lista 5 sobre Auto valores e auto vetores de Álgebra Linear.
 - [ ] Estudar Conservação do momento linear e Colisões de Introdução à Física Clássica 1.
 
 ### 18 de janeiro (terça)
