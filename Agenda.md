@@ -2,16 +2,23 @@
 
 ## Janeiro 2022
 
-### 21 de janeiro (sexta)
+### 22 de janeiro (sábado)
 
 - [ ] Estudar assunto Curvas e superfícies de nível de Cálculo 2.
+- [ ] Fazer avaliação sobre Parâmetros de corte de Tornearia.
+- [ ] 
+
+### 21 de janeiro (sexta)
+
+- [ ] Escrever sobre Mistura dos pós para o TCC.
+- [ ] Estudar assunto Diagonalização de Álgebra Linear.
+- [ ] Fazer atividade sobre Conservação do momento linear e Colisões de Introdução à Física Clássica 1.
 
 ### 20 de janeiro (quinta)
 
-- [ ] Fazer questões do livro sobre Funções de Várias Variáveis de Cálculo 2.
-- [ ] Estudar assunto Diagonalização de Álgebra Linear.
-- [ ] Estudar Conservação do momento linear e Colisões de Introdução à Física Clássica 1.
-- [ ] Fazer atividade sobre Conservação do momento linear e Colisões de Introdução à Física Clássica 1.
+- [x] Fazer questões do livro sobre Funções de Várias Variáveis de Cálculo 2.
+- [x] Fazer exercícios da aula de Strings de Linguagem de Programação.
+- [x] Estudar Conservação do momento linear e Colisões de Introdução à Física Clássica 1.
 
 ### 19 de janeiro (quarta)
 
