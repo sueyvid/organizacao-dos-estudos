@@ -2,16 +2,22 @@
 
 ## Janeiro 2022
 
+### 24 de janeiro (segunda)
+
+- [ ] Lip
+- [ ] calculo
+- [ ] algebra
+
 ### 22 de janeiro (sábado)
 
 - [ ] Estudar assunto Curvas e superfícies de nível de Cálculo 2.
-- [ ] Fazer avaliação sobre Parâmetros de corte de Tornearia.
-- [ ] 
+- [x] Fazer avaliação sobre Parâmetros de corte de Tornearia.
+- [ ] Assistir vídeo sobre metalurgia do pó do telecurso para o TCC.
 
 ### 21 de janeiro (sexta)
 
-- [ ] Escrever sobre Mistura dos pós para o TCC.
-- [ ] Estudar assunto Diagonalização de Álgebra Linear.
+- [x] Escrever sobre Mistura dos pós para o TCC.
+- [x] Estudar assunto Diagonalização de Álgebra Linear.
 - [ ] Fazer atividade sobre Conservação do momento linear e Colisões de Introdução à Física Clássica 1.
 
 ### 20 de janeiro (quinta)
