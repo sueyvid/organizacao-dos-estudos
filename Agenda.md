@@ -2,11 +2,15 @@
 
 ## Janeiro 2022
 
+### 25 de janeiro (terça)
+
+- [ ] 
+
 ### 24 de janeiro (segunda)
 
-- [ ] Lip
-- [ ] calculo
-- [ ] algebra
+- [x] Fazer atividade do pré-laboratório de Linguagem de Programação.
+- [x] Atividades do forms de Cálculo 2.
+- [ ] Fazer exercícios da lista 5 de Álgebra Linear.
 
 ### 22 de janeiro (sábado)
 
