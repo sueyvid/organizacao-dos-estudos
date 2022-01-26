@@ -2,9 +2,16 @@
 
 ## Janeiro 2022
 
+### 26 de janeiro (quarta)
+
+- [ ] Fazer lista de exercícios de Strings de Linguagem de Programação.
+- [ ] 
+
 ### 25 de janeiro (terça)
 
-- [ ] 
+- [x] Fazer exercícios da lista 5 de Álgebra Linear.
+- [x] Fazer exercícios da aula de Linguagem de Programação.
+- [x] Estudar assunto Curvas e superfícies de nível de Cálculo 2.
 
 ### 24 de janeiro (segunda)
 
